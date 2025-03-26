@@ -4,7 +4,7 @@ import homeImg from "../images/homeImg1.svg";
 function Home() {
     return (
         <div>
-            <div className="container flex items-center justify-between">
+            <div className="container flex items-center justify-between animate-slideDown">
                 <div className="">
                     <h1 className="text-[#3F4255] text-[56px] font-medium tracking-[3px] mb-[88px]">
                         Your Food court at home

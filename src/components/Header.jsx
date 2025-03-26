@@ -24,7 +24,7 @@ function Header() {
         <div className="p-[18px] border-b-[1px] border-b-[#D4D7E5] mb-[40px] relative">
             <div className="container flex items-center justify-between">
                 <img
-                    className="cursor-pointer select-none"
+                    className="cursor-pointer select-none animate-slideDown"
                     draggable={false}
                     src={logoSite}
                     width={184}
